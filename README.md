@@ -90,3 +90,7 @@ For the extension version prefix with `/mcxboxbroadcast`
 | `accounts list` | Lists the accounts that are currently in use and their friend count |
 | `accounts add <sub-session-id>` | Adds an account to the list of accounts to use |
 | `accounts remove <sub-session-id>` | Removes an account from the list of accounts to use |
+
+[GitHub](https://github.com/MCCORG/Broadcaster)\
+[GitLab](https://gitlab.com/mccorg/Broadcaster)\
+[Codeberg](https://codeberg.org/mccorg/Broadcaster)
